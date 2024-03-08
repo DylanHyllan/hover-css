@@ -1,0 +1,79 @@
+body{
+    background-color: yellow;
+}
+
+*{
+    border: solid 1px black;
+}
+
+#outdiv{
+    padding: 5px;
+}
+
+#seconddiv{
+    padding: 5px;
+}
+
+h1{
+    color: white;
+    background-color: red;
+    text-transform: capitalize;
+}
+
+h1:hover{
+    font-size: 300%;
+}
+
+#head{
+    color: aliceblue;
+}
+
+#full:hover{
+    background-color: red;
+
+}
+
+p{
+    color: black;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+p:hover{
+    font-size: 150%;
+    background-color: red;
+    color: black;
+    text-transform: uppercase;
+}
+
+#button{
+    background-color: aliceblue;
+    width: 100px;
+    height: 20px;
+    font-size: 15px;
+    margin: 5px;
+}
+
+#button:hover{
+    width: 150px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+img{
+    width: 100px;
+    height: 150px;
+    opacity: 0.3;
+    margin: 5px;
+}
+
+img:hover{
+    opacity: 1;
+}
+
+#full{
+    margin: 5px;
+    padding: 5px;
+}
